@@ -66,15 +66,3 @@ Evaluation metrics like MAE are more robust than RMSE for reporting public healt
 
 Public health advice was generated, recommending that vulnerable groups (children, elderly, asthma/COPD patients) limit outdoor exposure, use masks, and improve indoor ventilation on high-risk days.
 Stricter monitoring and real-time data–driven measures (speed limits, entry restrictions) should be applied around traffic hotspots and industrial belts.
-
-### Tech Stack:-
-
-Language: Python
-Libraries: pandas, numpy, statsmodels, Prophet, tensorflow/keras (for LSTM), scikit-learn, matplotlib, seaborn
-Tools: Jupyter Notebook
-
-### Author
-
-Sojib Roy
-
-If you find this project useful, consider giving it a star!
